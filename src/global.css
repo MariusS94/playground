@@ -6,4 +6,6 @@
 body {
   background-color: var(--main-bg-color);
   color: var(--main-color);
+  background-image: url(./assets/berg.jpg);
+  background-size: contain;
 }
